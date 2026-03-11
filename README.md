@@ -75,7 +75,7 @@ El proyecto sigue una arquitectura desacoplada:
 *Aquí puedes añadir imágenes del funcionamiento de la aplicación:*
 
 ### Inicio de Sesión
-![Image General](https://via.placeholder.com/800x400?text=Pantalla+de+Login)
+![Image General](Images/Image1.png)
 
 ### Panel de Control / Proyectos
 ![Dashboard](https://via.placeholder.com/800x400?text=Lista+de+Proyectos)
